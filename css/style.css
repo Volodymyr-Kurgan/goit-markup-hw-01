@@ -47,6 +47,19 @@ letter-spacing: 0.03em;
 }
 
 
+.menu .link.current {
+     font-family: 'Roboto', sans-serif;
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: var(--accent-color);
+    
+}
+
+
+
 .menu-link {
     font-family: 'Roboto', sans-serif;
 
@@ -55,6 +68,10 @@ letter-spacing: 0.03em;
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: #212121;
+
+
+
+
 }
 
 .menu-link:hover,
