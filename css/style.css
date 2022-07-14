@@ -20,6 +20,9 @@ body {
     border: 0;
 }
 
+
+
+
 .list {
     list-style: none;
 }
@@ -54,8 +57,7 @@ letter-spacing: 0.03em;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: var(--accent-color);
-    
+    color: var(--accent-color);    
 }
 
 
@@ -110,6 +112,37 @@ letter-spacing: 0.03em;
 
     background-color: var(--accent-color);
 }
+
+
+
+.primary-btn {
+font-family: 'Roboto'; sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.62;
+text-align: center;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+background-color: var(--accent-color);
+}
+
+
+.filter-btn {
+font-family: 'Roboto'; sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.62;
+text-align: center;
+letter-spacing: 0.03em;
+c
+color: var(--title-text-color)
+
+}
+
+
+
+
+
 
 .main-title {
     font-family: 'Roboto', sans-serif;
